@@ -1,0 +1,12 @@
+{
+  "name": "@scibase/enterprise-data-residency",
+  "version": "1.0.0",
+  "description": "Enterprise Data Residency and Sovereignty Compliance Module",
+  "main": "src/index.py",
+  "scripts": {
+    "test": "python3 test.py",
+    "demo": "python3 demo.py"
+  },
+  "keywords": ["data-residency", "compliance", "gdpr", "enterprise"],
+  "license": "MIT"
+}
